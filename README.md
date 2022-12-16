@@ -12,7 +12,7 @@
     </a>
 </h1>
 <p align="center">
-    🚀 Este repositório foi criado com a finalidade de armazenar todos os códigos gerados durante a formação!!!
+    🚀 Este repositório foi criado com a finalidade de armazenar todos os códigos gerados durante a formação.
 </p>
 
 <h2 align="center">Sobre a formação:</h2>
@@ -24,7 +24,7 @@
 </p>
 
 <h2 align="center">
-    A trilha que escolhi foi a de BECK-END na linguagem JAVA!
+    A trilha que escolhi foi a de BACK-END na linguagem JAVA!
 </h2>
 <p align="center">
     Nesta trilha, vou aprender a integrar os bancos de dados e as
