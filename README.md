@@ -29,12 +29,12 @@
 <h3>Módulos:</h3>
 
 <ul>
-    <li style="color: aqua">Lógica de Programação (em andamento)</li>
+    <li style="color: aqua">Lógica de Programação</li>
     <li>Programação Orientada a Objetos</li>
     <li>Programação Web</li>
-    <li>Banco de Dados (Postgres)</li>
+    <li>Banco de Dados PostgreSQL</li>
     <li>Testes Automatizados</li>
-    <li>Conteúdos exclusivos do Google Cloud</li>
+    <li>Google Cloud</li>
 </ul>
 <h3>
     Início: 30/11/2022 <br/><br>
