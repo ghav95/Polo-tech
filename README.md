@@ -1,12 +1,10 @@
-<h1 align="center">Americanas polo-tech Back-end</h1>
+<h1 align="center">Americanas Futuro Polo Tech</h1>
 
 <h1 align="center">
     <a href="https://polotech.americanas.io/">
-        Americanas Polo Tech
-    </a><br>
-    <a href="https://letscode.com.br/processos-seletivos">
-        Let´s Code
-    </a><br>
+        Americanas <polotech/>
+    </a>
+    <br />
     <a href="https://ada.tech/">
         AdaTech
     </a>
