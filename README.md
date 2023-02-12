@@ -1,8 +1,6 @@
-<h1 align="center">Americanas Futuro Polo Tech</h1>
-
 <h1 align="center">
     <a href="https://polotech.americanas.io/">
-        Americanas Polo Tech
+        Americanas Futuro Polo Tech
     </a>
     <br />
     <a href="https://ada.tech/">
