@@ -20,14 +20,12 @@
 </p>
 
 <h2 align="center">
-    A trilha que escolhi foi a de BACK-END na linguagem JAVA!
+    A trilha que escolhi foi Back-end Java.
 </h2>
 <p align="center">
-    Nesta trilha, vou aprender a integrar os bancos de dados e as
-    informações do navegador por meio de linguagen de programação Java.
+    Nesta trilha, vamos aprender e consolidar conceitos fundamentais no mercado de desenvolvimento.
 </p>
 <h3>Módulos:</h3>
-
 <ul>
     <li style="color: aqua">Lógica de Programação</li>
     <li>Programação Orientada a Objetos</li>
@@ -37,6 +35,6 @@
     <li>Google Cloud</li>
 </ul>
 <h3>
-    Início: 30/11/2022 <br/><br>
+    Início: 30/11/2022 <br/>
     Término: 26/04/2023
 </h3>
