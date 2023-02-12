@@ -1,4 +1,4 @@
-<h1 align="center">AmericanasPoloTechBeckendJava</h1>
+<h1 align="center">Americanas polo-tech Back-end Java</h1>
 
 <h1 align="center">
     <a href="https://polotech.americanas.io/">
