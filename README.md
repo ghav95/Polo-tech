@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <a href="https://polotech.americanas.io/">
-        Americanas <polotech/>
+        Americanas Polo Tech
     </a>
     <br />
     <a href="https://ada.tech/">
